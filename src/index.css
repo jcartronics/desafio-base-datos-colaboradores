@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar-brand {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: white;
+}
+
+.navbar-brand:hover {
+  color: gray;
+}
